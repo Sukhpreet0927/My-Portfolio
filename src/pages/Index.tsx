@@ -324,7 +324,7 @@ const Index = () => {
                       <div className="flex flex-col md:items-end">
                         <h3 className="text-xl font-bold text-foreground mb-2">Teaching Assistant & Tutor</h3>
                         <h4 className="text-lg font-semibold text-primary mb-2">UC Davis Computer Science</h4>
-                        <p className="text-muted-foreground text-sm mb-4">April 2023 - December 2023</p>
+                        <p className="text-muted-foreground text-sm mb-4">April 2022 - December 2022</p>
                         <p className="text-muted-foreground leading-relaxed mb-4">
                           Tutored and assisted students in Algorithm Design, Object-Oriented Programming in C++, 
                           and Data Structures courses. Reinforced my understanding while helping peers succeed 
