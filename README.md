@@ -3,4 +3,4 @@
 ## Project info
 
 **URL**: 
-https://my-portfolio-d8qb.vercel.app/
+https://sukhpreet-singh-aulakh.vercel.app/
